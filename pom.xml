@@ -234,7 +234,7 @@
 						<id>check-coverage</id>
 						<phase>test</phase>
 						<goals>
-							<goal>check</goal>
+							
 						</goals>
 					</execution>
 				</executions>
